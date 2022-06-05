@@ -1,4 +1,4 @@
-# Limit API access in Django
+# Limit API access in Django for biginers
 
 ## Extra
 
