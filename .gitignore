@@ -1,0 +1,6 @@
+.DS_STORE
+*.pyc
+env/
+*/__pycache__/*.cpython-310.pyc
+*/migrations/__pycache__/*.cpython-310.pyc
+*/*/__pycache__/*.cpython-310.pyc
